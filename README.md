@@ -42,4 +42,4 @@ the analysis revealed notable differences in child care space allocation based o
 
 ### Conclusion
 
-By exploring data from Toronto's child care centers, valuable insights were gained into the distribution and utilization of child care spaces. This insight can inform stakeholders and policymakers in making informed decisions to enhance child care services and address the needs of the community.
+by exploring data from toronto's child care centers, valuable insights were gained into the distribution and utilization of child care spaces. this insight can inform stakeholders and policymakers in making informed decisions to enhance child care services and address the needs of the community.
